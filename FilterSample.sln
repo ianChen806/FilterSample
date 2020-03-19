@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilterSampleForRzorPage", "FilterSampleForRzorPage\FilterSampleForRzorPage.csproj", "{3C1DBDC9-573F-40CC-8555-C01C103BDA10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilterSampleForMvc", "FilterSampleForMvc\FilterSampleForMvc.csproj", "{22D02D9C-90A2-4D69-AC5F-1CDAD88E950E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C1DBDC9-573F-40CC-8555-C01C103BDA10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C1DBDC9-573F-40CC-8555-C01C103BDA10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C1DBDC9-573F-40CC-8555-C01C103BDA10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C1DBDC9-573F-40CC-8555-C01C103BDA10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22D02D9C-90A2-4D69-AC5F-1CDAD88E950E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22D02D9C-90A2-4D69-AC5F-1CDAD88E950E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22D02D9C-90A2-4D69-AC5F-1CDAD88E950E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22D02D9C-90A2-4D69-AC5F-1CDAD88E950E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
